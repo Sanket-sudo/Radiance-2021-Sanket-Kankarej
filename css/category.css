@@ -1,0 +1,39 @@
+/* Category */
+.category .all-categories {
+  background-color: #F1F3F4;
+  padding-top: 20px;
+  padding-left: 20px;
+  border-radius: 5px;
+  padding-bottom: 65px;
+}
+
+.category .category-title p {
+  font-size: 18px;
+  text-transform: uppercase;
+  font-weight: 600;
+}
+
+.category .category-data ul {
+  list-style-type: none;
+}
+
+.category .category-data ul li {
+  font-size: 16px;
+  line-height: 35px;
+  font-weight: 550;
+}
+
+.category .category-data ul li a {
+  color: #22262A;
+}
+
+/* To equalize column heights */
+/* .category .row{
+  overflow: hidden; 
+} */
+
+/* To equalize column heights */
+/* .category .row .all-categories, .category .row .col-md-9{
+  margin-bottom: -99999px;
+  padding-bottom: 99999px;
+} */

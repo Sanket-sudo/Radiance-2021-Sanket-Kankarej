@@ -1,0 +1,14 @@
+/* Current Info */
+.current-info {
+  height: 90px;
+}
+
+.current-info p {
+  padding-top: 35px;
+  font-size: 14px;
+  font-weight: 600;
+}
+
+.current-info p span {
+  color: #33A0FF;
+}

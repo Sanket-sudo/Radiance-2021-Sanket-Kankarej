@@ -1,0 +1,44 @@
+/* Extra Small to Moderate */
+@media (min-width:667px) and (max-width:720px) {
+  .category .carousel-inner img {
+    width: 30%;
+  }
+
+  .category .all-categories {
+    background-color: #F1F3F4;
+    padding-top: 20px;
+    padding-left: 20px;
+    border-radius: 5px;
+    padding-bottom: 0px;
+  }
+}
+
+/* Small Devices */
+@media only screen and (max-width: 767px) {
+  .category .all-categories {
+    background-color: #F1F3F4;
+    padding-top: 20px;
+    padding-left: 20px;
+    border-radius: 5px;
+    padding-bottom: 0px;
+  }
+}
+
+/* Small Devices and Tablets */
+@media only screen and (max-width: 769px) {
+  .category .all-categories {
+    background-color: #F1F3F4;
+    padding-top: 20px;
+    padding-left: 20px;
+    border-radius: 5px;
+    padding-bottom: 0px;
+  }
+}
+
+/* Medium Devices like Desktop */
+@media only screen and (min-width: 992px) {
+}
+
+/* Large Devices and Wide Screens */
+@media only screen and (max-width: 1200px) {
+}

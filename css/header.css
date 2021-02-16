@@ -1,0 +1,46 @@
+/* Header */
+
+.header {
+  height: 80px;
+}
+
+.header .navbar-default {
+  background-color: #FFF;
+  border-color: #F1F3F4;
+  z-index: 10;
+  margin: 0;
+}
+
+.header .navbar-brand {
+  padding: 0;
+  margin-top: 7px;
+}
+
+.header .navbar-brand img {
+  height: 100%;
+  width: auto;
+}
+
+.header .navbar-nav li a {
+  width: 155px;
+  padding-top: 20px;
+}
+
+.header .navbar-nav li img {
+  float: left;
+  padding-right: 5px;
+}
+
+.header .navbar-nav li:hover {
+  background-color: #F6F7F8;
+}
+
+.header .nav-item p {
+  font-weight: 600;
+  font-size: 16px;
+}
+
+.header .nav-item p span {
+  color: #C1C8CE;
+  font-weight: normal;
+}
